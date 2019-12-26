@@ -14,5 +14,5 @@ Use Python to understand U.S. bikeshare data.  Calculate statistics and build an
 - washington.csv
 
 ### Credits
-stackoverflow.com
+[Stackoverflow](http://stackoverflow.com/)
 
